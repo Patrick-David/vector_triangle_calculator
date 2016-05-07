@@ -13,4 +13,4 @@ computational efficiency.
 
 Click below to run in Binder!
 
- [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/Patrick-David/vector_triangles) 
+  [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/Patrick-David/vector_triangles) 
