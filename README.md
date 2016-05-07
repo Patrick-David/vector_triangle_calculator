@@ -9,5 +9,5 @@ The calculations are deliberately inefficient as they serve to show the vector
 
 form of the calculations (Dot Products, Law of Cosines etc) rather than outright
 
-computational efficiency"""
+computational efficiency.
 
