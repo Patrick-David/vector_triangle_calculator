@@ -11,4 +11,6 @@ form of the calculations (Dot Products, Law of Cosines etc) rather than outright
 
 computational efficiency.
 
+Click below to run in Binder!
+
  [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/Patrick-David/vector_triangles) 
